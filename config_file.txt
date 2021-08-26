@@ -1,0 +1,5 @@
+enable
+cisco
+config t
+do sh ip int brief
+
