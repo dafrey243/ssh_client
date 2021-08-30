@@ -9,19 +9,15 @@ Running script example:
 C1111>term len 0
 C1111>enable
 Password: 
-
 C1111#
 show clock
 13:39:07.796 UTC Mon Aug 30 2021
 C1111#
-
 C1111#
 192.168.0.2
-
 C3750X-G>term len 0
 C3750X-G>enable
 Password: 
-
 C3750X-G#
 show clock
 *13:17:38.212 UTC Fri Jun 4 1993
