@@ -3,6 +3,7 @@ SSH client to login to many devices to execute one or many CLI commands. Two fil
 Running script example:
 
 [dafrey@CrashCart functions]$ python sshclient.py 
+
 192.168.0.1
 C1111>term len 0
 C1111>enable
