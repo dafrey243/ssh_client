@@ -4,8 +4,6 @@ Running script example:
 
 [dafrey@CrashCart functions]$ python sshclient.py 
 192.168.0.1
-/usr/lib/python2.7/site-packages/paramiko/rsakey.py:119: CryptographyDeprecationWarning: signer and verifier have been deprecated. Please use sign and verify instead.
-  algorithm=hashes.SHA1(),
 C1111>term len 0
 C1111>enable
 Password: 
