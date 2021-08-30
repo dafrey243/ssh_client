@@ -3,22 +3,3 @@ SSH client to login to many devices to execute one or many CLI commands. Two fil
 Running script example:
 
 [dafrey@CrashCart functions]$ python sshclient.py 
-192.168.0.1
-/usr/lib/python2.7/site-packages/paramiko/rsakey.py:119: CryptographyDeprecationWarning: signer and verifier have been deprecated. Please use sign and verify instead.
-  algorithm=hashes.SHA1(),
-C1111>term len 0
-C1111>enable
-Password: 
-C1111#
-show clock
-13:39:07.796 UTC Mon Aug 30 2021
-C1111#
-C1111#
-192.168.0.2
-C3750X-G>term len 0
-C3750X-G>enable
-Password: 
-C3750X-G#
-show clock
-*13:17:38.212 UTC Fri Jun 4 1993
-C3750X-G#
